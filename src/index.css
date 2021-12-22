@@ -1,0 +1,12 @@
+button {
+    background-color: #FF3D00;
+    border: none;
+    color: white;
+    padding: 4px 8px;
+}
+
+#iteams>div {
+    border: 1px solid red;
+    margin: 10px;
+    color: brown;
+}
